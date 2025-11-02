@@ -1,4 +1,4 @@
-# TextEditorBackend
+# BSTTextEditorBackend
 
 Efficient backend implementation for a line-based text editor in **C++23**, supporting fast character and line operations with logarithmic complexity.
 
@@ -71,4 +71,5 @@ Lines: 1, Size: 11
 make          # Build and run main demo
 make test     # Build and run tests
 make clean    # Remove build artifacts
+
 ```
